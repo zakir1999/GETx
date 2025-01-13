@@ -62,6 +62,18 @@
       "languageVersion": "3.3"
     },
     {
+      "name": "get",
+      "rootUri": "file:///C:/Users/mzaki/AppData/Local/Pub/Cache/hosted/pub.dev/get-4.6.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "gradient_elevated_button",
+      "rootUri": "file:///C:/Users/mzaki/AppData/Local/Pub/Cache/hosted/pub.dev/gradient_elevated_button-1.0.8",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
       "name": "leak_tracker",
       "rootUri": "file:///C:/Users/mzaki/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker-10.0.5",
       "packageUri": "lib/",
@@ -110,6 +122,12 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "raised_buttons",
+      "rootUri": "file:///C:/Users/mzaki/AppData/Local/Pub/Cache/hosted/pub.dev/raised_buttons-0.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
       "name": "sky_engine",
       "rootUri": "file:///C:/flutter/src/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
@@ -152,6 +170,12 @@
       "languageVersion": "3.2"
     },
     {
+      "name": "top_snackbar_flutter",
+      "rootUri": "file:///C:/Users/mzaki/AppData/Local/Pub/Cache/hosted/pub.dev/top_snackbar_flutter-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
       "name": "vector_math",
       "rootUri": "file:///C:/Users/mzaki/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.1.4",
       "packageUri": "lib/",
@@ -170,7 +194,7 @@
       "languageVersion": "3.5"
     }
   ],
-  "generated": "2025-01-13T07:11:14.469765Z",
+  "generated": "2025-01-13T16:53:33.137318Z",
   "generator": "pub",
   "generatorVersion": "3.5.4",
   "flutterRoot": "file:///C:/flutter/src/flutter",
