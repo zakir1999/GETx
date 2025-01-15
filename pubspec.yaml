@@ -39,6 +39,7 @@ dependencies:
   raised_buttons: ^0.0.2
   gradient_elevated_button: ^1.0.8
   top_snackbar_flutter: ^3.1.0
+  gap: ^3.0.1
 
 dev_dependencies:
   flutter_test:

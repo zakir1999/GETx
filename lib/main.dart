@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:getx/Packages/Route%20Navigation/home.dart';
 import 'package:getx/Packages/bottom.dart';
 import 'package:getx/Packages/dialog.dart';
 
@@ -20,7 +21,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home:bottomsheet(),
+      home:home(),
     );
   }
 }
