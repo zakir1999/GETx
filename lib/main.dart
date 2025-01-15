@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:getx/Packages/bottom.dart';
 import 'package:getx/Packages/dialog.dart';
 
 import 'Packages/showing snackbar.dart';
@@ -19,7 +20,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: dialog(),
+      home:bottomsheet(),
     );
   }
 }
