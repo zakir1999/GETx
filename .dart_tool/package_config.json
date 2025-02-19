@@ -69,7 +69,7 @@
     },
     {
       "name": "get",
-      "rootUri": "file:///C:/Users/mzaki/AppData/Local/Pub/Cache/hosted/pub.dev/get-4.6.6",
+      "rootUri": "file:///C:/Users/mzaki/AppData/Local/Pub/Cache/hosted/pub.dev/get-4.7.2",
       "packageUri": "lib/",
       "languageVersion": "2.15"
     },
@@ -194,13 +194,19 @@
       "languageVersion": "3.3"
     },
     {
+      "name": "web",
+      "rootUri": "file:///C:/Users/mzaki/AppData/Local/Pub/Cache/hosted/pub.dev/web-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
       "name": "getx",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     }
   ],
-  "generated": "2025-01-15T05:55:05.683207Z",
+  "generated": "2025-02-19T17:40:02.689210Z",
   "generator": "pub",
   "generatorVersion": "3.5.4",
   "flutterRoot": "file:///C:/flutter/src/flutter",
